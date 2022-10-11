@@ -18,8 +18,8 @@
 - Docker - version 20.10.18
 - Docker Compose - version 3.8
 - Expo - version 46.0.1
-- React - version 18.1.0
-- React Native - version 0.70.2
+- React - version 18.0.0
+- React Native - version 0.69.6
 
 
 ## Setup
